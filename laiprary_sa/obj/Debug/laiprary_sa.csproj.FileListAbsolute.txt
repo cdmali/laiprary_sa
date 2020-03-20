@@ -1,0 +1,2 @@
+C:\Users\salam\AppData\Local\Temporary Projects\laiprary_sa\bin\Debug\laiprary_sa.exe.config
+C:\Users\salam\Desktop\laiprary_sa\laiprary_sa\laiprary_sa\bin\Debug\laiprary_sa.exe.config
