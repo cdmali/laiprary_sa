@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace laiprary_sa
+namespace laiprary_sa.NewFolder1
 {
-    public partial class Form1 : Form
+    public partial class frm_main : Form
     {
-        public Form1()
+        public frm_main()
         {
             InitializeComponent();
         }

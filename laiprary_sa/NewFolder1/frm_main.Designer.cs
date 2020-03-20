@@ -1,6 +1,6 @@
-﻿namespace laiprary_sa
+﻿namespace laiprary_sa.NewFolder1
 {
-    partial class Form1
+    partial class frm_main
     {
         /// <summary>
         /// Required designer variable.
@@ -28,12 +28,24 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // frm_main
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "Form1";
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.ClientSize = new System.Drawing.Size(1114, 540);
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
+            this.Name = "frm_main";
+            this.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "frm_main";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
     }
 }
-
